@@ -1,5 +1,6 @@
 ### Welcome to Le4f Space
 - 🌱 This is the space for storing course resources and submitting assignments.
+- 💡 Sometimes about interests
 - 📫 Email: le4fnotfound@gmail.com
 
 <!---
